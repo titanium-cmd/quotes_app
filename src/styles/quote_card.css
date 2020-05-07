@@ -1,0 +1,9 @@
+.card{
+    background-color: cornflowerblue !important;
+}
+.card-header{
+    background-color: darkgoldenrod !important;
+}
+span{
+    color: rgba(255, 255, 255, 0.781);
+}
