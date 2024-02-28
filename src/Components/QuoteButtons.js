@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/quote_buttons.css';
-const helper = require('../js files/external_handling.js');
+const helper = require('../external_handling.js');
 
 const QuoteButtons = (props) => {
     

@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/quote_card.css';
 import sample_quote from './sample_quotes.json';
-const helper = require('../js files/external_handling.js');
+const helper = require('../external_handling.js');
 
 const QuoteCard = ({currentBtn}) =>{
     helper.setSelectors(document.querySelector('#statement'), document.querySelector('#author'));
